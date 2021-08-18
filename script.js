@@ -55,7 +55,7 @@ function displayResults(weather) {
 
 function dateBuilder(d) {
     var days = [
-        "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+        "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
     ]
     var months = [
         "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
